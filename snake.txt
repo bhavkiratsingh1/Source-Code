@@ -1,4 +1,3 @@
-# xxx
 # imports
 import turtle
 import time
